@@ -1,2 +1,2 @@
-# hello-world
-It's just for learning
+Hi, stranger!
+Welcome to my repository!
